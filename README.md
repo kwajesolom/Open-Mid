@@ -3,6 +3,8 @@ A repo used for the Mid Semester Assessment.
 
 A template for your personal profile website.
 
+Join my [profile page](https://solomonkwaje.netlify.app/)
+
 
 Join our [slack work space](https://join.slack.com/t/slack-pyo5813/shared_invite/zt-yjxuv2u9-nh76BpOrSGEpbPsF8K7_pg) 
 
