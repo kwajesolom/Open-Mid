@@ -1,5 +1,5 @@
 body {
-    color: #40514E;
+    color: #0d2040;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -33,7 +33,7 @@ hr {
     margin: 70px auto;
 }
 .top-container {
-    background-color:  #EAF6F6;
+    background-color:  #0d2040;
 }
 
 .middle-container {
@@ -105,7 +105,7 @@ a:hover{
     font-size: 20px;
     font-weight: 100;
     padding: 12px;
-    background-color: #0CB7BD;
+    background-color: #0d2040;
     text-shadow: 1px 1px 20px #000000;
     border: solid #11CDD4 1px;
     text-decoration: none;
